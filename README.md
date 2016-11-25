@@ -14,11 +14,12 @@ git clone git@github.com:chadananda/app-start.git
 cd app-start
 npm install
 npm start
-
 ```
 
 ### Credits
-This customized boilerplate was based on [https://github.com/szwacz/electron-boilerplate/tree/master]() and [https://github.com/jimschubert/electron-aurelia-example]()
+This customized boilerplate was based on [https://github.com/szwacz/electron-boilerplate/tree/master](https://github.com/szwacz/electron-boilerplate/tree/master) and [https://github.com/jimschubert/electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example)
+
+
 
 
 
