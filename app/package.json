@@ -1,0 +1,14 @@
+{
+  "name": "basic-boilerplate",
+  "productName": "Boilerplate",
+  "description": "Boilerplate Application",
+  "version": "1.0.0",
+  "author": "Chad Jones <chadananda@gmail.com>",
+  "copyright": "© 2017",
+  "homepage": "http://notepad.com",
+  "license": "MIT",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.10.3"
+  }
+}
