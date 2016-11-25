@@ -17,6 +17,9 @@ npm start
 
 ```
 
+### Credits
+This customized boilerplate was based on [https://github.com/szwacz/electron-boilerplate/tree/master]() and [https://github.com/jimschubert/electron-aurelia-example]()
+
 
 
 
